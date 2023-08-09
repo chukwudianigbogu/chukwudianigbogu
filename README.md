@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chukwudianigbogu
 - 👀 I’m interested in ... Bash Scripting,Java, JavaScript and .NET
 - 🌱 I’m currently learning ... C#, Python, HTML and CSS
-- 💞️ I’m looking to collaborate on ... any project that requires C#, Bash Scripting, JavaScript and .NET
+- 💞️ I’m looking to collaborate on ... any project that requires C#,Java, Bash Scripting, JavaScript and .NET
 - 📫 How to reach me ... anigboguchukwudi012@gmail.com
 
 <!---
